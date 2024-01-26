@@ -24,7 +24,7 @@ class Mypage extends StatelessWidget {
     return  Scaffold(
       appBar: AppBar(
         centerTitle: true, //中央寄せの指定
-        title: const Text('Instagramだよ')
+        title: const Text('マイページ')
         
         ),
 
