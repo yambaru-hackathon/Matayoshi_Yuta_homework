@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761992975855",
+    "project_id": "fir-crud-ae7ad",
+    "storage_bucket": "fir-crud-ae7ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761992975855:android:71d21ad52dd7604b7e921a",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs3g1rlrvxhpEGi6UpO7Q080kXH-O7MCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
